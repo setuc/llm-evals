@@ -1,0 +1,12 @@
+ragas==0.1.21
+datasets
+transformers
+torch
+sentence-transformers
+scikit-learn
+scipy
+krippendorff
+numpy
+accelerate
+nltk
+openai
