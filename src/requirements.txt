@@ -95,18 +95,20 @@ joblib==1.4.2
     #   nltk
     #   scikit-learn
 jsonpatch==1.33
-    # via langchain-core
+    # via
+    #   langchain
+    #   langchain-core
 jsonpointer==3.0.0
     # via jsonpatch
 krippendorff==0.8.0
     # via -r requirements.in
-langchain==0.2.16
+langchain==0.2.17
     # via
     #   langchain-community
     #   ragas
-langchain-community==0.2.17
+langchain-community==0.2.19
     # via ragas
-langchain-core==0.2.41
+langchain-core==0.2.43
     # via
     #   langchain
     #   langchain-community
