@@ -86,7 +86,7 @@ idna==3.10
     #   httpx
     #   requests
     #   yarl
-jinja2==3.1.4
+jinja2==3.1.5
     # via torch
 jiter==0.6.1
     # via openai
